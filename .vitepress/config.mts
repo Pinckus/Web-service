@@ -23,9 +23,5 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'bilibili', link: 'https://space.bilibili.com/86709966' }
-    ],
-
-export default {
-  base: '/Web-service/'
- }
+    ]
 })
